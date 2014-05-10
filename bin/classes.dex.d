@@ -1,0 +1,20 @@
+/Users/eriese/IdeaProjects/AmexTest/bin/classes.dex : \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/BuildConfig.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/DisplayReceipt.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/ItemForm$1.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/ItemForm$2.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/ItemForm.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/MainActivity$1.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/MainActivity$2.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/MainActivity.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/Manifest.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/R$array.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/R$attr.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/R$color.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/R$drawable.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/R$id.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/R$layout.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/R$string.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/R$style.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/R.class \
+/Users/eriese/IdeaProjects/AmexTest/bin/classes/com/example/amex_test/ReceiptRow.class \

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:weightSum="1"
+              android:layout_margin="10dp"
+              android:layout_marginLeft="15dp" >
+
+    <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="1"
+            android:id="@+id/receiptAmount"
+            android:layout_weight=".1"
+            style="@style/receiptLine"/>
+    <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Box Imported Chocolates"
+            android:id="@+id/receiptDescription"
+            android:layout_weight=".7"
+            style="@style/receiptLine"/>
+    <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="10.25"
+            android:id="@+id/receiptPrice"
+            android:layout_weight=".2"
+            style="@style/receiptLine"
+            android:gravity="end"/>
+</LinearLayout>

@@ -1,0 +1,3 @@
+The main assumption that I made was that the app should be able to handle larger, more complicated inputs than the examples given. For that reason, I included the plus and minus buttons around the item amount and made sure the calculations could account for such an eventuality and made the item descriptions freeform instead of having the user choose from a dropdown menu. I also put in exception handlers on the assumption that the app should be able to handle user errors.
+
+I also assumed that for a first release, it would be ok to use a list of key words that could be found within product descriptions and would indicate tax exemption.

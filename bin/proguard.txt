@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:17
+-keep class com.example.amex_test.DisplayReceipt { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class com.example.amex_test.MainActivity { <init>(...); }
+

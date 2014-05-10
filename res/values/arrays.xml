@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exempt_words">
+        <item>book</item>
+        <item>chocolate</item>
+        <item>pill</item>
+    </string-array>
+</resources>
